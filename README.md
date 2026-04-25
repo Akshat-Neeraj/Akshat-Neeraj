@@ -24,11 +24,11 @@
 
 </div>
 
----
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-```yaml
+
 name: Akshat Neeraj
 located_in: Punjab, India
 current_status: BCA Final Year Student
