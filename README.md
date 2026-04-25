@@ -28,7 +28,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-```yaml
+
 name: Akshat Neeraj
 located_in: Punjab, India
 current_status: BCA Final Year Student
@@ -37,7 +37,7 @@ job_search: Remote Frontend Developer
 interests: [AI, Web Development, Automation, Fitness]
 daily_routine: [Code, Workout, Learn, Repeat]
 motto: "Building solutions, one commit at a time"
-```
+
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
