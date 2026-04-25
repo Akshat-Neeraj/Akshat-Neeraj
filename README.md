@@ -1,8 +1,10 @@
 <div align="center">
 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akshat%20Neeraj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Frontend+Developer+💻;AI+Enthusiast+🤖;Problem+Solver+🚀;Graduating+May+2026+🎓" alt="Typing SVG" /></a>
+<!-- Typing Animation - FIXED -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Frontend+Developer+💻;AI+Enthusiast+🤖;Problem+Solver+🚀;Graduating+May+2026+🎓" alt="Typing SVG" />
 
 <!-- Social Badges -->
 <p align="center">
@@ -22,10 +24,11 @@
 
 </div>
 
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-
+```yaml
 name: Akshat Neeraj
 located_in: Punjab, India
 current_status: BCA Final Year Student
@@ -34,6 +37,7 @@ job_search: Remote Frontend Developer
 interests: [AI, Web Development, Automation, Fitness]
 daily_routine: [Code, Workout, Learn, Repeat]
 motto: "Building solutions, one commit at a time"
+```
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -47,7 +51,7 @@ motto: "Building solutions, one commit at a time"
 
 <br clear="right"/>
 
-
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Tech Stack
 
@@ -73,7 +77,7 @@ motto: "Building solutions, one commit at a time"
 
 </div>
 
-
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> Featured Projects
 
@@ -152,8 +156,7 @@ Personal portfolio showcasing projects, skills, and professional journey.
 
 </div>
 
-
-
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> GitHub Activity
 
@@ -177,7 +180,7 @@ Personal portfolio showcasing projects, skills, and professional journey.
 
 </div>
 
-
+---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28px"> Let's Connect!
 
