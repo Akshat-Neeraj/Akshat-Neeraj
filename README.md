@@ -52,7 +52,6 @@ motto: "Building solutions, one commit at a time"
 
 <br clear="right"/>
 
----
 
 <!-- Tech Stack with Visual Grouping -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Tech Stack
@@ -79,7 +78,6 @@ motto: "Building solutions, one commit at a time"
 
 </div>
 
----
 
 <!-- Featured Projects with Better Layout -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> Featured Projects
