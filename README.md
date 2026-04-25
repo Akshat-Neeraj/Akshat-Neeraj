@@ -1,8 +1,3 @@
-##  **PREMIUM GitHub Profile README v2.0 - FULL VERSION**
-
-Here's the complete premium README. Copy this entire code and replace your current README:
-
-```markdown
 <div align="center">
 
 <!-- Animated Header -->
