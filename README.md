@@ -1,16 +1,7 @@
 <div align="center">
 
-<!-- Animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshat%20Neeraj&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Building%20things%20for%20the%20web&descSize=16&descAlignY=58" width="100%"/>
 
-<!-- Typing animation -->
-<a href="https://github.com/Akshat-Neeraj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;BCA+(2023%E2%80%932026)+%7C+Punjab,+India;Building+GesMus%3A+play+instruments+with+your+hands;Open+to+remote+junior+roles" alt="Typing animation" />
-</a>
-
-<br>
-
-<!-- Social badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/akshat-neeraj">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,8 +13,6 @@
     <img src="https://img.shields.io/badge/Try_GesMus-Live_Demo-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GesMus demo"/>
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Akshat-Neeraj&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -41,15 +30,12 @@ role: Front-End Developer
 job_search: Remote Junior Front-End Developer
 currently_building: [GesMus, FRIDAY OS]
 interests: [Web Development, AI, Automation, Fitness]
-motto: "Building solutions, one commit at a time"
 ```
 
 - 💼 **Looking for** a remote junior front-end developer role
 - 🖐️ **Latest project:** [GesMus](https://akshat-neeraj.github.io/GesMus/), a music app you play with hand gestures
 - 🤖 **Also building:** FRIDAY OS, a personal AI assistant (in development)
 - 🌱 **Learning:** React, TypeScript and modern web tech
-- 🏋️ **Off-screen:** workout 6 days a week
-- 📚 **I like** solving real problems through code
 
 <br clear="right"/>
 
@@ -59,14 +45,11 @@ motto: "Building solutions, one commit at a time"
 
 <div align="center">
 
-<p><b>Frontend</b></p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Frontend skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,git,github,vscode,postman&theme=dark&perline=12" alt="Tech stack icons" />
 
-<p><b>Backend (basics)</b></p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Backend skills" />
+<br><br>
 
-<p><b>Tools</b></p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+**Most comfortable with:** HTML, CSS, JavaScript &nbsp;|&nbsp; **Learning:** React, TypeScript &nbsp;|&nbsp; **Basics:** Node.js, Express, Python
 
 </div>
 
@@ -76,10 +59,17 @@ motto: "Building solutions, one commit at a time"
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/▶_Play_it_now-akshat--neeraj.github.io/GesMus-0A66C2?style=for-the-badge)](https://akshat-neeraj.github.io/GesMus/)
-[![Repo](https://img.shields.io/badge/Source_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat-Neeraj/GesMus)
+<!-- ADD A SCREENSHOT OR GIF HERE (biggest visual upgrade):
+     1. Take a screenshot or short screen recording of GesMus while you play.
+     2. In the GesMus repo, click Add file > Upload files, and upload it as demo.gif (or demo.png).
+     3. Remove the comment markers around the line below.
+<img src="https://raw.githubusercontent.com/Akshat-Neeraj/GesMus/main/demo.gif" alt="GesMus demo" width="85%"/>
+-->
 
 **Play instruments with your hands. No pads, no taps, just a webcam.**
+
+[![Play it now](https://img.shields.io/badge/▶_Play_it_now-0A66C2?style=for-the-badge)](https://akshat-neeraj.github.io/GesMus/)
+[![Source code](https://img.shields.io/badge/Source_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat-Neeraj/GesMus)
 
 </div>
 
@@ -90,7 +80,7 @@ motto: "Building solutions, one commit at a time"
 | ✊ Right hand: fist | Silence (or replay on some instruments) |
 | 🖐️ Left hand: open / closed | Tone and brightness |
 
-Built with **MediaPipe HandLandmarker** for hand tracking and my own gesture logic on top. Includes practice and learn modes, a metronome, looping, recording, and a composer for layering parts.
+Built with **MediaPipe HandLandmarker** for hand tracking, plus my own gesture logic on top. It includes practice and learn modes, a metronome, looping, recording, and a composer for layering parts.
 
 `JavaScript` `HTML` `CSS` `MediaPipe`
 
@@ -156,25 +146,6 @@ Quiz app with dynamic questions, a timer, and real-time scoring.
 - [Portfolio Website](https://github.com/Akshat-Neeraj/Portfolio): personal portfolio showcasing projects, skills, and contact information (`HTML` `CSS`)
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshat-Neeraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Neeraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Akshat-Neeraj&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat-Neeraj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-
-</div>
 
 ---
 
