@@ -29,12 +29,12 @@
 
 name: Akshat Neeraj
 located_in: Punjab, India
-current_status: BCA Final Year Student
-graduation: May 2026
-job_search: Remote Frontend Developer
-interests: [AI, Web Development, Automation, Fitness]
-daily_routine: [Code, Workout, Learn, Repeat]
+current_status: BCA (2023–2026), degree pending | Front-End Developer
+job_search: Remote Junior Front-End Developer
+currently_building: GesMus (gesture-controlled music app), FRIDAY OS
+interests: [Web Development, AI, Automation, Fitness]
 motto: "Building solutions, one commit at a time"
+
 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
