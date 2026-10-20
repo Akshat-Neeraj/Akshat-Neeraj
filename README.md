@@ -1,217 +1,164 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshat%20Neeraj&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Building%20things%20for%20the%20web&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshat%20Neeraj&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Front-End%20Developer%20%7C%20Building%20Practical%20Web%20Projects&descSize=15&descAlignY=58" width="100%" alt="Akshat Neeraj — Front-End Developer"/>
 
 <h3>Hey there 👋 I'm Akshat</h3>
 
-<!-- Quick-glance badges -->
-<img src="https://img.shields.io/badge/Open_to-Remote_Junior_Roles-2ea44f?style=for-the-badge" alt="Open to remote junior roles"/>
-<img src="https://img.shields.io/badge/BCA-2023–2026-8957e5?style=for-the-badge" alt="BCA 2023-2026"/>
-<img src="https://img.shields.io/badge/Punjab-India-orange?style=for-the-badge" alt="Punjab, India"/>
+<img src="https://img.shields.io/badge/Open_to-Entry--Level_Roles-2ea44f?style=for-the-badge" alt="Open to entry-level roles"/>
+<img src="https://img.shields.io/badge/BCA-2023--2026-8957e5?style=for-the-badge" alt="BCA 2023–2026"/>
+<img src="https://img.shields.io/badge/Work_Mode-Remote_%7C_Hybrid_%7C_On--site-0e75b6?style=for-the-badge" alt="Remote, hybrid and on-site"/>
 
 <br><br>
 
-<!-- Social badges -->
-<a href="https://www.linkedin.com/in/akshat-neeraj">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:akshatneeraj24680@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://akshat-neeraj.github.io/GesMus/">
-  <img src="https://img.shields.io/badge/Try_GesMus-Live_Demo-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GesMus demo"/>
-</a>
+<a href="https://www.linkedin.com/in/akshat-neeraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:akshatneeraj24680@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://akshat-neeraj.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Akshat-Neeraj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Akshat-Neeraj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### 👋 About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+I'm a BCA student at Lovely Professional University, building practical web projects while preparing for entry-level frontend and web development roles.
 
-- 🎓 BCA student (2023–2026), degree pending
-- 🖐️ Latest project: **[GesMus](https://akshat-neeraj.github.io/GesMus/)**, a music app you play with hand gestures
-- 🤖 Also building **FRIDAY OS**, a personal AI assistant (in development)
-- 🌱 Learning **React** and **TypeScript**, strengthening my **JavaScript** fundamentals
-- 💡 Interested in front-end, AI, automation, and practical apps
-- 🏋️ Off-screen: workout 6 days a week
-- 💬 Ask me about: **JavaScript, HTML/CSS, MediaPipe hand tracking, browser apps**
-- ⚡ Fun fact: I built an AI voice assistant named Friday
+- 🖐️ **GesMus (AirBand):** a browser-based music experience controlled with hand gestures.
+- 🌙 **NightList:** an installable, local-first media library for anime, manga, movies, TV, and games.
+- 🤖 **FRIDAY OS:** a personal AI assistant project in development.
+- 🌱 Strengthening my **JavaScript** fundamentals and learning **React** and **TypeScript**.
+- 💡 Interested in frontend development, browser applications, AI tools, and automation.
+- 💬 I enjoy discussing project implementation, debugging, and what I'm learning through hands-on development.
 
-<br clear="right"/>
+> BCA degree status: pending official completion/award.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies & Tools
 
 <div align="center">
 
-**Frontend**<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Frontend" />
-
+**Frontend**
 <br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React and Angular"/>
 
-**Backend (basics)**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Backend" />
+<br><br>
 
+**Backend & APIs**
 <br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Node.js, Express and Python"/>
 
-**Tools**<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+<br><br>
 
-</div>
-
----
-
-### 🌱 Currently Learning — October 2026
-
-<div align="center">
-
-`React` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Modern Front-End Tooling` &nbsp;•&nbsp; `Backend Basics (Node.js)`
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman"/>
 
 </div>
 
----
-
-### 🚀 Where I'm Heading
-
-I'm aiming for a **junior front-end developer** role, ideally remote.
-
-I'm building on my **JavaScript** foundation with **React** and **TypeScript**, and shipping projects people can actually try, like GesMus. I'm also learning how backends work, so I can grow toward **full-stack** over time.
+*Technology icons represent tools I've used or am currently learning; the stack varies by project.*
 
 ---
 
-### ⭐ Featured Project: GesMus (AirBand)
-
-<div align="center">
-
-**Play instruments with your hands. No pads, no taps, just a webcam.**
-
-<!-- ADD A SCREENSHOT OR GIF HERE (biggest visual upgrade):
-     1. Take a screenshot or short screen recording of GesMus while you play.
-     2. In the GesMus repo, click Add file > Upload files, and upload it as demo.gif (or demo.png).
-     3. Remove the comment markers around the line below.
-<img src="https://raw.githubusercontent.com/Akshat-Neeraj/GesMus/main/demo.gif" alt="GesMus demo" width="80%"/>
--->
-
-[![Play it now](https://img.shields.io/badge/▶_Play_it_now-0A66C2?style=for-the-badge)](https://akshat-neeraj.github.io/GesMus/)
-[![Source code](https://img.shields.io/badge/Source_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat-Neeraj/GesMus)
-
-<table>
-<tr><th>Your hand</th><th>What it controls</th></tr>
-<tr><td>☝️ Right hand: finger count</td><td>Picks the note or chord</td></tr>
-<tr><td>↕️ Right hand: height</td><td>Volume</td></tr>
-<tr><td>✊ Right hand: fist</td><td>Silence (or replay on some instruments)</td></tr>
-<tr><td>🖐️ Left hand: open / closed</td><td>Tone and brightness</td></tr>
-</table>
-
-Built with **MediaPipe HandLandmarker** and my own gesture logic.<br>
-`JavaScript` `HTML` `CSS` `MediaPipe`
-
-</div>
-
----
-
-### 🗂️ More Projects
-
-<div align="center">
+### 🌟 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 Friday
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat-Neeraj/Friday)
+#### 🎵 [GesMus (AirBand)](https://github.com/Akshat-Neeraj/GesMus)
 
-Early Python version of my voice assistant, with command recognition and safe execution with user confirmation. I'm now building a newer version, FRIDAY OS.
+Play instruments using hand gestures and a webcam. The browser app uses hand landmarks and custom gesture logic to map hand movements to musical controls.
 
-`Python` `Speech Recognition`
+**Tech:** JavaScript · HTML · CSS · MediaPipe
+
+[**Live Demo**](https://akshat-neeraj.github.io/GesMus/) · [**Source Code**](https://github.com/Akshat-Neeraj/GesMus)
 
 </td>
 <td width="50%" valign="top">
 
-#### 📝 Note Manager
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat-Neeraj/Note-Manager)
+#### 🌙 [NightList — Anime & Media Library](https://github.com/Akshat-Neeraj/Anime)
 
-Small prototype notes app, built to practice Node.js.
+A personal media tracker for anime, manga, movies, TV, and games, with list views, progress tracking, import/export, and optional integrations.
 
-`Node.js` `JavaScript`
+**Tech:** HTML · CSS · JavaScript · PWA · Supabase (optional) · Groq API (optional)
+
+[**Live Demo**](https://akshat-neeraj.github.io/Anime/) · [**Source Code**](https://github.com/Akshat-Neeraj/Anime)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎓 E-Learning Platform UI
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat-Neeraj/E-LEARNING-PLATFORM-Ul)
+#### 🤖 FRIDAY OS
 
-Responsive UI design focused on user experience and accessibility.
+A personal AI assistant currently in development. I'm exploring assistant workflows and application integration as I continue building my software skills.
 
-`HTML` `CSS` `JavaScript`
+**Status:** In development
+
+*The newer FRIDAY OS project is separate from my earlier Python voice-assistant repository.*
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 Interactive Quiz App
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat-Neeraj/INTERACTIVE-QUIZ-APPLICATION-MAIN)
+#### 🧠 [Interactive Quiz Application](https://github.com/Akshat-Neeraj/INTERACTIVE-QUIZ-APPLICATION-MAIN)
 
-Quiz app with dynamic questions, a timer, and real-time scoring.
+A browser-based quiz app with multiple-choice questions, a timer, progress tracking, instant feedback, and score summaries.
 
-`HTML` `CSS` `JavaScript`
+**Tech:** HTML · CSS · JavaScript
+
+[**Source Code**](https://github.com/Akshat-Neeraj/INTERACTIVE-QUIZ-APPLICATION-MAIN)
 
 </td>
 </tr>
 </table>
-
-</div>
 
 <details>
-<summary><b>💼 Older projects</b></summary>
+<summary><b>🗂️ More projects</b></summary>
 <br>
 
-- [Portfolio Website](https://github.com/Akshat-Neeraj/Portfolio): personal portfolio showcasing projects, skills, and contact information (`HTML` `CSS`)
+- [Real-Time Chat Application](https://github.com/Akshat-Neeraj/REAL-TIME-CHAT-APPLICATION) — a learning project exploring a React frontend, Node.js backend, WebSockets, and browser-based chat history. See the repository README for its current limitations.
+- [Earlier Python FRIDAY assistant](https://github.com/Akshat-Neeraj/Friday) — an earlier voice-assistant project using Python and speech recognition.
+- [Portfolio Website](https://github.com/Akshat-Neeraj/Portfolio) — my personal portfolio site.
+- [Study Planner](https://github.com/Akshat-Neeraj/Study-Planner) — a study-planning web project.
 
 </details>
 
 ---
 
-### 📊 GitHub Stats
+### 🌱 Currently Learning
 
-<div align="center">
-
-<img height="150" src="https://streak-stats.demolab.com/?user=Akshat-Neeraj&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Akshat-Neeraj&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&count_private=true" alt="GitHub stats" />
-
-</div>
+`JavaScript` · `React` · `TypeScript` · `Frontend tooling` · `Node.js fundamentals`
 
 ---
 
-### 🌐 Let's Connect
+### 🎯 What I'm Looking For
+
+I'm seeking **entry-level Frontend Developer and Web Developer opportunities**, including suitable trainee roles. I'm open to **remote, hybrid, and on-site** positions.
+
+I'm focused on improving through real projects, learning from experienced developers, and contributing to useful web applications.
+
+---
+
+### 🌐 Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/akshat-neeraj"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" /></a>
+<a href="https://www.linkedin.com/in/akshat-neeraj"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="42"/></a>
 &nbsp;&nbsp;
-<a href="mailto:akshatneeraj24680@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="48" /></a>
+<a href="mailto:akshatneeraj24680@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="42"/></a>
 &nbsp;&nbsp;
-<a href="https://github.com/Akshat-Neeraj"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" /></a>
+<a href="https://github.com/Akshat-Neeraj"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="42"/></a>
 
 <br><br>
 
 📫 **akshatneeraj24680@gmail.com**
 
-<br>
+✨ *Curious. Building. Improving.*
 
-✨ **Curious. Building. Improving.** ✨
-
-### 💡 *"Building solutions, one commit at a time"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
