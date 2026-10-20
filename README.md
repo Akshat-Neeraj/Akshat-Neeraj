@@ -65,34 +65,60 @@ I'm a BCA student at Lovely Professional University, building practical web proj
 
 ### 🌟 Featured Projects
 
-#### 🎵 [GesMus (AirBand)](https://github.com/Akshat-Neeraj/GesMus)
-Play instruments using hand gestures and a webcam. The browser app uses hand landmarks and custom gesture logic to map hand movements to musical controls.
+> A selection of projects that demonstrate my work with browser interaction, frontend fundamentals, and application development.
 
-**Tech:** JavaScript · HTML · CSS · MediaPipe  
-[**Live Demo**](https://akshat-neeraj.github.io/GesMus/) · [**Source Code**](https://github.com/Akshat-Neeraj/GesMus)
+<details open>
+<summary><b>🎵 GesMus (AirBand) — Gesture-Controlled Music</b></summary>
 
-#### 🌙 [NightList — Anime & Media Library](https://github.com/Akshat-Neeraj/Anime)
-A personal media tracker for anime, manga, movies, TV, and games, with list views, progress tracking, import/export, and optional integrations.
+A browser-based music experience where webcam hand tracking turns gestures into musical controls.
 
-**Tech:** HTML · CSS · JavaScript · PWA · Supabase (optional) · Groq API (optional)  
-[**Live Demo**](https://akshat-neeraj.github.io/Anime/) · [**Source Code**](https://github.com/Akshat-Neeraj/Anime)
+**Stack:** JavaScript · HTML · CSS · MediaPipe
 
-#### 🤖 FRIDAY OS
-A personal AI assistant currently in development. I'm exploring assistant workflows and application integration as I continue building my software skills.
+[▶ Live Demo](https://akshat-neeraj.github.io/GesMus/) · [⌘ Source Code](https://github.com/Akshat-Neeraj/GesMus)
 
-**Status:** In development  
-*The newer FRIDAY OS project is separate from my earlier Python voice-assistant repository. Its repository link will be added when a dedicated public repository is available.*
+</details>
 
-#### 🧠 [Interactive Quiz Application](https://github.com/Akshat-Neeraj/INTERACTIVE-QUIZ-APPLICATION-MAIN)
-A browser-based quiz app with multiple-choice questions, a timer, progress tracking, instant feedback, and score summaries.
+---
 
-**Tech:** HTML · CSS · JavaScript  
-[**Source Code**](https://github.com/Akshat-Neeraj/INTERACTIVE-QUIZ-APPLICATION-MAIN)
+<details open>
+<summary><b>🌙 NightList — Anime & Media Library</b></summary>
+
+A personal tracker for anime, manga, movies, TV, and games, with list management, progress tracking, and import/export.
+
+**Stack:** HTML · CSS · JavaScript · PWA · Optional Supabase/Groq integrations
+
+[▶ Live Demo](https://akshat-neeraj.github.io/Anime/) · [⌘ Source Code](https://github.com/Akshat-Neeraj/Anime)
+
+</details>
+
+---
+
+<details open>
+<summary><b>🤖 FRIDAY OS — Personal AI Assistant</b> · <code>In Development</code></summary>
+
+An assistant project exploring voice interaction, assistant workflows, and application integration.
+
+*This is separate from my earlier Python voice-assistant project. A dedicated public repository link will be added when available.*
+
+</details>
+
+---
+
+<details open>
+<summary><b>🧠 Interactive Quiz Application</b></summary>
+
+A browser-based quiz with multiple-choice questions, a timer, progress tracking, instant feedback, and score summaries.
+
+**Stack:** HTML · CSS · JavaScript
+
+[⌘ Source Code](https://github.com/Akshat-Neeraj/INTERACTIVE-QUIZ-APPLICATION-MAIN)
+
+</details>
 
 <details>
 <summary><b>🗂️ More projects</b></summary>
 
-- [Real-Time Chat Application](https://github.com/Akshat-Neeraj/REAL-TIME-CHAT-APPLICATION) — a learning project exploring a React frontend, Node.js backend, WebSockets, and browser-based chat history. See the repository README for its current limitations.
+- [Real-Time Chat Application](https://github.com/Akshat-Neeraj/REAL-TIME-CHAT-APPLICATION) — a learning project exploring a React frontend, Node.js backend, WebSockets, and browser-based chat history. See the repository README for current limitations.
 - [Earlier Python FRIDAY assistant](https://github.com/Akshat-Neeraj/Friday) — an earlier voice-assistant project using Python and speech recognition.
 - [Portfolio Website](https://github.com/Akshat-Neeraj/Portfolio) — my personal portfolio site.
 - [Study Planner](https://github.com/Akshat-Neeraj/Study-Planner) — a study-planning web project.
