@@ -65,60 +65,32 @@ I'm a BCA student at Lovely Professional University, building practical web proj
 
 ### 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 #### 🎵 [GesMus (AirBand)](https://github.com/Akshat-Neeraj/GesMus)
-
 Play instruments using hand gestures and a webcam. The browser app uses hand landmarks and custom gesture logic to map hand movements to musical controls.
 
-**Tech:** JavaScript · HTML · CSS · MediaPipe
-
+**Tech:** JavaScript · HTML · CSS · MediaPipe  
 [**Live Demo**](https://akshat-neeraj.github.io/GesMus/) · [**Source Code**](https://github.com/Akshat-Neeraj/GesMus)
 
-</td>
-<td width="50%" valign="top">
-
 #### 🌙 [NightList — Anime & Media Library](https://github.com/Akshat-Neeraj/Anime)
-
 A personal media tracker for anime, manga, movies, TV, and games, with list views, progress tracking, import/export, and optional integrations.
 
-**Tech:** HTML · CSS · JavaScript · PWA · Supabase (optional) · Groq API (optional)
-
+**Tech:** HTML · CSS · JavaScript · PWA · Supabase (optional) · Groq API (optional)  
 [**Live Demo**](https://akshat-neeraj.github.io/Anime/) · [**Source Code**](https://github.com/Akshat-Neeraj/Anime)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### 🤖 FRIDAY OS
-
 A personal AI assistant currently in development. I'm exploring assistant workflows and application integration as I continue building my software skills.
 
-**Status:** In development
-
-*The newer FRIDAY OS project is separate from my earlier Python voice-assistant repository.*
-
-</td>
-<td width="50%" valign="top">
+**Status:** In development  
+*The newer FRIDAY OS project is separate from my earlier Python voice-assistant repository. Its repository link will be added when a dedicated public repository is available.*
 
 #### 🧠 [Interactive Quiz Application](https://github.com/Akshat-Neeraj/INTERACTIVE-QUIZ-APPLICATION-MAIN)
-
 A browser-based quiz app with multiple-choice questions, a timer, progress tracking, instant feedback, and score summaries.
 
-**Tech:** HTML · CSS · JavaScript
-
+**Tech:** HTML · CSS · JavaScript  
 [**Source Code**](https://github.com/Akshat-Neeraj/INTERACTIVE-QUIZ-APPLICATION-MAIN)
-
-</td>
-</tr>
-</table>
 
 <details>
 <summary><b>🗂️ More projects</b></summary>
-<br>
 
 - [Real-Time Chat Application](https://github.com/Akshat-Neeraj/REAL-TIME-CHAT-APPLICATION) — a learning project exploring a React frontend, Node.js backend, WebSockets, and browser-based chat history. See the repository README for its current limitations.
 - [Earlier Python FRIDAY assistant](https://github.com/Akshat-Neeraj/Friday) — an earlier voice-assistant project using Python and speech recognition.
